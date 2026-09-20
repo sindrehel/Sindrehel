@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https:)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Real-Time Squat Feedback Using Pose Estimation and Machine Learning</b>
+  - <b>Technologies:</b> Python, TensorFlow, Keras, MoveNet, OpenCV, FastAPI, Gemini
+  - [Bachelor Project - GitHub](https://github.com/Sindrehel/real-time-squat-feedback)
 
 
 <h2> 🤳 Connect with me:</h2>
